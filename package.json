@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@elastic/eui": "17.0.0",
-    "gatsby": "^2.13.73",
+    "gatsby": "^2.32.13",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
